@@ -1,4 +1,4 @@
-# SociSci-DS-CS
+# 社科类+DS/CS相关项目汇总
 ## 7.8
 
 添加Public Policy相关专业、Tilburg、Tampere相关专业，删去哥本哈根大学Cognitive & Communication项目（非常感谢评论区朋友的提醒和补充！）。
